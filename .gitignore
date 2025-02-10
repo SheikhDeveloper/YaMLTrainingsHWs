@@ -1,0 +1,11 @@
+bin
+__pycache__
+*.pyc
+*.pyo
+*.so
+*.class
+*.egg-info
+*.dist-info
+*.egg
+*.zip
+ipynb_checkpoints
