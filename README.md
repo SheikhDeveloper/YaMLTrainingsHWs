@@ -2,7 +2,7 @@
 
 All homework templates (without parts of code) are available [here](https://github.com/girafe-ai/ml-course) in the corresponding branch.
 
-## ML trainings 1.0 2023
+## ML trainings 1.0 2023 solutions
 
 | Домашнее задание | Выполнено |
 | :---: | :---: |
@@ -12,7 +12,7 @@ All homework templates (without parts of code) are available [here](https://gith
 |[04. Степенной метод](./23_trainings_1_0/power_method_assignment0_04.ipynb)| ✅ |
 |[05. Оценка OOB](./23_trainings_1_0/assignment_bagging_and_oob.ipynb)| ✅ |
 
-## ML trainings 2.0 2024
+## ML trainings 2.0 2024 solutions
 
 | Домашнее задание | Выполнено |
 | :---: | :---: |
