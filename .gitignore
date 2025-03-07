@@ -8,5 +8,5 @@ __pycache__
 *.dist-info
 *.egg
 *.zip
-ipynb_checkpoints
+*ipynb_checkpoints
 *.json
