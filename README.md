@@ -10,7 +10,7 @@ All homework templates (without parts of code) are available [here](https://gith
 |[02. Распределение Лапласа](./23_trainings_1_0/laplace_distribution_assignment_0_02.ipynb) | ✅ |
 |[03. Векторные производные](./23_trainings_1_0/derivatives_assignment_03.ipynb)| ✅ |
 |[04. Степенной метод](./23_trainings_1_0/power_method_assignment0_04.ipynb)| ✅ |
-|[05. Оценка OOB](./23_trainings_1_0/assignment_bagging_and_oob.ipynb)| ✅ |
+|[05. Bagging и Оценка OOB](./23_trainings_1_0/assignment_bagging_and_oob.ipynb)| ✅ |
 
 ## ML trainings 2.0 2024 solutions
 
