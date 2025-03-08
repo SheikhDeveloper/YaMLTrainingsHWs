@@ -11,6 +11,7 @@ All homework templates (without parts of code) are available [here](https://gith
 |[Векторные производные](./23_trainings_1_0/derivatives_assignment_03.ipynb)|
 |[Степенной метод](./23_trainings_1_0/power_method_assignment0_04.ipynb)|
 |[Bagging и Оценка OOB](./23_trainings_1_0/assignment_bagging_and_oob.ipynb)|
+|[Boosting](./23_trainings_1_0/assignment_boosting.ipynb)|
 
 ## ML trainings 2.0 2024 solutions
 
