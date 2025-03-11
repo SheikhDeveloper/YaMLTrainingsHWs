@@ -12,6 +12,7 @@ All homework templates (without parts of code) are available [here](https://gith
 |[Степенной метод](./23_trainings_1_0/power_method_assignment0_04.ipynb)|
 |[Bagging и Оценка OOB](./23_trainings_1_0/assignment_bagging_and_oob.ipynb)|
 |[Boosting](./23_trainings_1_0/assignment_boosting.ipynb)|
+|[Классификация MNIST](./23_trainings_1_0/assignment_mnist.ipynb)|
 
 ## ML trainings 2.0 2024 solutions
 
