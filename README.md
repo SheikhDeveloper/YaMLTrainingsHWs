@@ -24,3 +24,9 @@ All homework templates (without parts of code) are available [here](https://gith
 | [Классификация текстов классическими методами](./24_trainings_2_0/classic_text_classification_hw.ipynb) |
 | [Классификация текстов с помощью BERT](./24_trainings_2_0/assignment_bert_for_text_classification.ipynb) |
 | [Sound event detection](./24_trainings_2_0/sed-base.ipynb) |
+
+### ML trainings 3.0 2025 solutions
+
+| Домашнее задание |
+| :---: |
+| [Классификация MNIST с помощью PyTorch](./25_trainings_3_0/01_hw_mnist_classification.ipynb) |
