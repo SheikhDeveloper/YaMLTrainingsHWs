@@ -30,5 +30,6 @@ All homework templates (without parts of code) are available [here](https://gith
 | Домашнее задание |
 | :---: |
 | [Классификация MNIST с помощью PyTorch](./25_trainings_3_0/01_hw_mnist_classification.ipynb) |
+| [Классификация FMNIST с помощью CNN](./25_trainings_3_0/02_hw_fmnist_classification.ipynb) |
 | [Фильтры границ Собеля и HoG](./25_trainings_3_0/hw_sobel_and_simple_hog.ipynb) |
 | [Совмещение изображений и построение панорам с помощью SIFT](./25_trainings_3_0/hw_panorama_matching.ipynb) |
