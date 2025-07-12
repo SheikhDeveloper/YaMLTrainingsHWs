@@ -34,3 +34,4 @@ All homework templates (without parts of code) are available [here](https://gith
 | [Фильтры границ Собеля и HoG](./25_trainings_3_0/hw_sobel_and_simple_hog.ipynb) |
 | [Совмещение изображений и построение панорам с помощью SIFT](./25_trainings_3_0/hw_panorama_matching.ipynb) |
 | [Переобучение CNN на FMNIST и исправление переобучения](./25_trainings_3_0/hw-fmnist-overfitting.ipynb) |
+| [Реализация NN с помощью Numpy без PyTorch](./25_trainings_3_0/nn_implementation.py) |
